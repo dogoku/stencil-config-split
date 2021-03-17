@@ -1,0 +1,5 @@
+:host {
+  /** @prop --my-component-bg: the background */
+  --my-component-bg: red;
+  display: block;
+}
